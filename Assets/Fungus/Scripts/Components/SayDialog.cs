@@ -547,6 +547,10 @@ namespace Fungus
             StopAllCoroutines();
         }
 
+        internal class activeSayDialog
+        {
+        }
+
         #endregion
     }
 }
